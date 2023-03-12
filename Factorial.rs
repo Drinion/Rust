@@ -12,3 +12,7 @@ fn factorial(a: u32) -> u32 {
         return factorial(a-1) * a;
     }
 }
+
+fn whatTheFuck() {
+    return 0;
+}
